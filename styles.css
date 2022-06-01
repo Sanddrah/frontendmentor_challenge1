@@ -1,0 +1,59 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.main{
+    /* max-width: 100%;
+    min-height: 550px;
+    width: 320px;
+    margin: 0 auto; */
+    height: auto;
+    text-align: center;
+    background-color: #bad4e2;
+   
+}
+
+.qrimage{
+    margin: auto;
+}
+
+img{
+   width: 90%; 
+   margin:  14px 30px 14px 14px;
+   border-radius: 15px;
+}
+
+
+.text{
+  width: 80%; 
+  text-align: center;
+  margin: 0 auto 30px auto;
+  font-family: 'Roboto', sans-serif;
+} 
+
+.container{
+   background-color: #ffffff;
+   display: inline-block;
+   margin: 55px 20px;
+   border-radius: 15px;
+   width: 300px;
+}
+
+p{
+    color: grey;
+    font-weight: lighter;
+    font-size: small;  
+}
+
+h3{
+    font-size: medium;
+    font-weight: 700;
+}
+
+.attribution{
+    padding: 30px;
+} 
